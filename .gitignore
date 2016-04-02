@@ -3,3 +3,9 @@ node_modules/
 *.iml
 bower_components/
 *.js.map
+*.component.js
+*.service.js
+mock-heroes.js
+hero.js
+main.js
+typings/*
