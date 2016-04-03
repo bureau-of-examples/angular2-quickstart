@@ -5,7 +5,10 @@ bower_components/
 *.js.map
 *.component.js
 *.service.js
+*.pipe.js
+*.spec.js
 mock-heroes.js
 hero.js
 main.js
 typings/*
+
